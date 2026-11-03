@@ -1,6 +1,11 @@
 <Solution>
+  <Project Path="Ejercicio3_examen1/Ejercicio3_examen1.csproj" Id="3482fcee-dc28-4fe6-a6b9-134534bdc9d5" />
+  <Project Path="ejercicio4_examen/ejercicio4_examen.csproj" Id="3c077184-946e-4129-8ea6-d29aac3b94db" />
+  <Project Path="Ejercicio_2examen/Ejercicio_2examen.csproj" Id="80a47674-83e6-4930-8ed1-e92a6d6cae0c" />
+  <Project Path="Primer_Examen/Primer_Examen.csproj" Id="7040257f-f050-499d-8436-a1f9ce18cadf" />
   <Project Path="Tarea_Unidad2_CShard/Tarea_Unidad2_CShard.csproj" Id="654fab48-862f-4683-b3d4-fa4e3bd76a2e" />
   <Project Path="Unidad2_Operadores/Unidad2_Operadores.csproj" Id="e2e891e7-214f-4bc4-9848-199e8df25dcb" />
   <Project Path="Unidad3_MessageBox/Unidad3_MessageBox.csproj" Id="73af9167-1fdf-454d-8f2e-ad84a5441e3f" />
   <Project Path="Unidad4.POO/Unidad4.POO.csproj" Id="14063061-1aa3-4c4f-8557-790566874e30" />
+  <Project Path="Unidad5_Capas/Unidad5_Capas.csproj" Id="890cff03-05a0-44c3-af58-acf411d31a55" />
 </Solution>
